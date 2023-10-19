@@ -24,5 +24,6 @@
          </cursor>
       </Button>
       <TextField fx:id="txtMsg" layoutX="192.0" layoutY="125.0" prefHeight="26.0" prefWidth="290.0" />
+      <AnchorPane layoutX="22.0" layoutY="188.0" prefHeight="200.0" prefWidth="200.0" />
    </children>
 </AnchorPane>
